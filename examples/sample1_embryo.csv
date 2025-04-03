@@ -1,0 +1,10 @@
+SNP Name;Sample ID;GC Score;Allele1 - Plus;Allele2 - Plus
+1:103380393;sample1Embryo;0.8573;G;G
+1:106737318;sample1Embryo;0.3867;T;T
+1:109439680;sample1Embryo;0.4716;A;A
+1:110228436_CNV_GSTM1;sample1Embryo;0.0000;-;-
+1:110228505_CNV_GSTM1;sample1Embryo;0.3785;C;C
+1:110228615_CNV_GSTM1;sample1Embryo;0.4460;T;T
+1:110228695_CNV_GSTM1;sample1Embryo;0.4347;G;G
+1:110229315_CNV_GSTM1;sample1Embryo;0.4413;G;G
+1:110229436_CNV_GSTM1;sample1Embryo;0.4438;A;A
