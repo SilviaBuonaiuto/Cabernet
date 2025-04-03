@@ -38,7 +38,7 @@ Run R script to perform Copy Number Variation (CNV) analysis on paired embryonic
 > `<prefix_for_output_files>` - Prefix to use for all output files
 
 
-#### Run Rscript
+#### 1. Run Rscript
 The [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/cnv.R) relies on custom functions defined in [CNV_functions.R](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/CNV_functions.R)
 
 ```
