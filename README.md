@@ -42,7 +42,7 @@ Run R script to perform Copy Number Variation (CNV) analysis on paired embryonic
 The [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/cnv.R) relies on custom functions defined in [CNV_functions.R](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/CNV_functions.R)
 
 ```
-Rscript cnv.R examples/sample1Embryo.csv examples/sample1Extra.csv examples/multi_sample.tsv sample1Embryo_lrr.tsv sample1Extra_lrr.tsv out_directory out_prefix
+Rscript cnv.R examples/sample1Embryo.csv examples/sample1Extra.csv examples/multi_sample.tsv examples/sample1Embryo_lrr.tsv examples/sample1Extra_lrr.tsv out_directory out_prefix
 ```
 #### Output Files
 
