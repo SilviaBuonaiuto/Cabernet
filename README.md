@@ -44,23 +44,23 @@ The [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/cnv
 ```
 Rscript cnv.R embryonicID.csv extra_embryonicID.csv multi_sample_table.tsv embryonic_lrr.tsv extra_embryonic_lrr.tsv out_directory out_prefix
 ```
-## Output Files
+#### Output Files
 
 The script generates the following output files in the specified `<output_directory>`:
 
-### Segment Plots
+##### Segment Plots
 * `<prefix>_embryonic_segments.png` - Segmentation plot for embryonic tissue	
 * `<prefix>_extra_embryonic_segments.png` - Segmentation plot for extra-embryonic tissue
 
-### Manhattan Plots
+##### Manhattan Plots
 * `<prefix>_manhattan_panel.png` - Combined Manhattan plot comparing both samples
 
-### Concordance Analysis
+##### Concordance Analysis
 * `<prefix>_baf_correlation.png` - B-allele frequency correlation between samples
 * `<prefix>_segment_difference.png` - Visual representation of segment differences
 * `<prefix>_combined_report.png` - Combined visualization of concordance metrics
 
-### Data Files
+##### Data Files
 * `<prefix>_concordance_summary.csv` - Summary statistics of concordance analysis
 * `<prefix>_segment_comparison.csv` - Detailed comparison of segments between samples
 
