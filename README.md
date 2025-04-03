@@ -23,7 +23,7 @@ python3 processingIDAT.py
 Run R script to perform Copy Number Variation (CNV) analysis on paired embryonic and extra-embryonic tissue samples. It processes the raw data, calculates Log R Ratio (LRR), performs segmentation, and compares the samples to assess their concordance.
 
 **Required command-line arguments :**
-* <embryonic_tissue_file> - Path to the embryonic tissue data file (results table from the company)
+> `<embryonic_tissue_file>` - Path to the embryonic tissue data file (results table from the company)
 
 
 
