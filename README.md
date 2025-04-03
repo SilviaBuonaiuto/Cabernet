@@ -24,12 +24,18 @@ Run R script to perform Copy Number Variation (CNV) analysis on paired embryonic
 
 **Required command-line arguments :**
 > `<embryonic_tissue_file>` - Path to the embryonic tissue data file (results table from the company)
+
 > `<extra_embryonic_tissue_file>` - Path to the extra-embryonic tissue data file
+
 > `<multi_sample_table>` - Path to multi-sample reference table
 > `<embryonic_idat_file>` - Path to embryonic tissue file containing LRR values created in previous step
+
 > `<extra_embryonic_idat_file>` - Path to extra-embryonic tissue file containing LRR values created in previous step
+
 > `<output_directory>` - Directory where output files should be saved
+
 > `<prefix_for_output_files>` - Prefix to use for all output files
+
 
 ## Concordance Scores Significance
 
