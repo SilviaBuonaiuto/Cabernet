@@ -10,7 +10,7 @@ This script processes raw IDAT files from Illumina SNP genotyping arrays to extr
 
 #### Setup
 1. Create file containing Sample_ID and barcode IDs and positions
-2. Define paths to IDAT files, table with IDs and R script inside the python script
+2. Define paths to IDAT files, table with IDs and [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/processIDAT.R) inside the python script
 
 #### Run [script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/processingIDAT.py) to process IDAT files 
 ```
