@@ -5,7 +5,7 @@
 ### BAF Correlation
 #### Significance:
 
-* 0.95: Samples from same individual
+* ≥0.95: Samples from same individual
 * 0.5-0.7: Parent-child relationship
 * <0.3: Unrelated individuals
 
@@ -16,7 +16,7 @@
 ### Mean Segment Concordance
 #### Significance:
 
-* 0.9: Samples from same individual
+* ≥0.9: Samples from same individual
 * 0.7-0.85: Related individuals
 * <0.6: Unrelated individuals
 
@@ -26,7 +26,7 @@
 ### Overall Concordance
 #### Significance:
 
-* 0.9: Samples from same individual
+* ≥0.9: Samples from same individual
 * 0.6-0.8: Related individuals
 * <0.5: Unrelated individuals
 
