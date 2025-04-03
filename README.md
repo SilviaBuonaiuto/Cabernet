@@ -10,8 +10,7 @@
 * <0.3: Unrelated individuals
 
 
-#### Interpretation: 
-Measures similarity of B-allele frequency patterns, reflecting genotype concordance
+**Interpretation:** Measures similarity of B-allele frequency patterns, reflecting genotype concordance
 
 
 ### Mean Segment Concordance
@@ -22,8 +21,7 @@ Measures similarity of B-allele frequency patterns, reflecting genotype concorda
 * <0.6: Unrelated individuals
 
 
-#### Interpretation: 
-Measures similarity of copy number variations/segmentation patterns
+**Interpretation:** Measures similarity of copy number variations/segmentation patterns
 
 ### Overall Concordance
 #### Significance:
@@ -33,8 +31,7 @@ Measures similarity of copy number variations/segmentation patterns
 * <0.5: Unrelated individuals
 
 
-#### Interpretation: 
-Combined metric that balances genotype and structural concordance
+**Interpretation:** Combined metric that balances genotype and structural concordance
 
 
 ### Concordance Quality Categories
