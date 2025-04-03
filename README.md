@@ -64,14 +64,8 @@ The script generates the following output files in the specified `<output_direct
 * `<prefix>_concordance_summary.csv` - Summary statistics of concordance analysis
 * `<prefix>_segment_comparison.csv` - Detailed comparison of segments between samples
 
-## Results
 
-Results can be found here :
-* [Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
-* [Segment plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/segment_plots)
-* [Manhattan plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/manhattan_plots)
-
-## Concordance Scores Significance
+## Results interpretation - Concordance Scores Significance
 
 ### BAF Correlation
 #### Significance:
@@ -80,9 +74,7 @@ Results can be found here :
 * 0.5-0.7: Parent-child relationship
 * <0.3: Unrelated individuals
 
-
 **Interpretation:** Measures similarity of B-allele frequency patterns, reflecting genotype concordance
-
 
 ### Mean Segment Concordance
 #### Significance:
@@ -90,7 +82,6 @@ Results can be found here :
 * ≥0.9: Samples from same individual
 * 0.7-0.85: Related individuals
 * <0.6: Unrelated individuals
-
 
 **Interpretation:** Measures similarity of copy number variations/segmentation patterns
 
@@ -101,9 +92,7 @@ Results can be found here :
 * 0.6-0.8: Related individuals
 * <0.5: Unrelated individuals
 
-
 **Interpretation:** Combined metric that balances genotype and structural concordance
-
 
 ### Concordance Quality Categories
 
@@ -113,3 +102,10 @@ Results can be found here :
 * **Moderate (≥0.80):** Some discordance, possible significant mosaicism
 * **Poor (≥0.70):** Major differences, likely significant mosaicism
 * **Very Poor (<0.70):** Different individuals or major technical issues
+
+## Results
+
+Results can be found here :
+* [Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
+* [Segment plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/segment_plots)
+* [Manhattan plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/manhattan_plots)
