@@ -39,7 +39,7 @@ Run R script to perform Copy Number Variation (CNV) analysis on paired embryonic
 
 
 #### Run Rscript
-The [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/cnv.R) relies on custom functions defined in (CNV_functions.R)[https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/CNV_functions.R]
+The [R script](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/cnv.R) relies on custom functions defined in [CNV_functions.R](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/scripts/CNV_functions.R)
 
 
 ## Concordance Scores Significance
