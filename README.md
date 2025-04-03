@@ -48,7 +48,7 @@ Rscript cnv.R examples/sample1Embryo.csv examples/sample1Extra.csv examples/mult
 
 The script generates the following output files in the specified `<output_directory>`:
 
-##### Segment Plots
+##### Segment Plots 
 * `<prefix>_embryonic_segments.png` - Segmentation plot for embryonic tissue	
 * `<prefix>_extra_embryonic_segments.png` - Segmentation plot for extra-embryonic tissue
 
@@ -64,6 +64,12 @@ The script generates the following output files in the specified `<output_direct
 * `<prefix>_concordance_summary.csv` - Summary statistics of concordance analysis
 * `<prefix>_segment_comparison.csv` - Detailed comparison of segments between samples
 
+## Results
+
+Results can be found here :
+[Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
+[Segment plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/segment_plots)
+[Manhattan plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/manhattan_plots)
 
 ## Concordance Scores Significance
 
