@@ -67,9 +67,9 @@ The script generates the following output files in the specified `<output_direct
 ## Results
 
 Results can be found here :
-[Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
-[Segment plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/segment_plots)
-[Manhattan plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/manhattan_plots)
+* [Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
+* [Segment plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/segment_plots)
+* [Manhattan plots](https://github.com/SilviaBuonaiuto/Cabernet/tree/main/plots/manhattan_plots)
 
 ## Concordance Scores Significance
 
