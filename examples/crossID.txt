@@ -1,0 +1,3 @@
+Sample_ID	SentrixBarcode_A	SentrixPosition_A
+sample1Embryo	209211360157	R01C01
+sample1Extra	209211360157	R02C01
