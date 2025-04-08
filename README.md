@@ -104,6 +104,10 @@ The script generates the following output files in the specified `<output_direct
 * **Very Poor (<0.70):** Different individuals or major technical issues
 
 ## Results
+Analysis performed on 23 sample IDs 
+* 45 organs
+* 47 villi
+Perfect concordance was found in all comparisons.
 
 Results can be found here :
 * [Concordance analysis table](https://github.com/SilviaBuonaiuto/Cabernet/blob/main/data/cabernet_results.tsv)
